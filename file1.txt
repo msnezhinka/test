@@ -1,7 +1,8 @@
-123
+
 commit test update
 456
 789.
 Новый коммит.
 Add line
 "new branch line" 
+new line for GUI
